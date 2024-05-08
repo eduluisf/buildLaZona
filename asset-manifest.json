@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d2d66e9.css",
+    "main.js": "/static/js/main.d4ab4a47.js",
+    "static/js/453.ed76b12b.chunk.js": "/static/js/453.ed76b12b.chunk.js",
+    "static/media/FONDO.png": "/static/media/FONDO.53d53395bc783dcefc0c.png",
+    "static/media/Coalition_v2..ttf": "/static/media/Coalition_v2..a93fe5c539eda0e1b385.ttf",
+    "static/media/Image3_1.png": "/static/media/Image3_1.b076f46ea770c2ddbdde.png",
+    "static/media/Image4_1.png": "/static/media/Image4_1.356edfe46100f7781a51.png",
+    "static/media/genteDeZonaBlack.png": "/static/media/genteDeZonaBlack.cf12ae3738c0f22135ef.png",
+    "index.html": "/index.html",
+    "main.1d2d66e9.css.map": "/static/css/main.1d2d66e9.css.map",
+    "main.d4ab4a47.js.map": "/static/js/main.d4ab4a47.js.map",
+    "453.ed76b12b.chunk.js.map": "/static/js/453.ed76b12b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d2d66e9.css",
+    "static/js/main.d4ab4a47.js"
+  ]
+}
